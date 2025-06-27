@@ -1,9 +1,9 @@
-# Multi-Agent Debate System using LangGraph
+# Multi-Agent Debate System using LangGraph (Open the Colab link IF preview not avaialble for debate.ipynb)
 
 ## Overview
 This system simulates a structured debate between two AI agents (Scientist and Philosopher) on a user-provided topic. The debate follows 8 rounds of arguments, with an automated judge determining the winner based on logical analysis. Built with LangGraph and Hugging Face models optimized for Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/drive/1_lqvW1jg1kZVLkAPqwndJW2xwB43_1s8?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_lqvW1jg1kZVLkAPqwndJW2xwB43_1s8?usp=sharing)
 
 ## Features
 - 8-round structured debate with alternating agents
